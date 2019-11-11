@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_people-table/static/css/main.53a01f42.chunk.css",
+    "main.js": "/react_people-table/static/js/main.586813e9.chunk.js",
+    "main.js.map": "/react_people-table/static/js/main.586813e9.chunk.js.map",
+    "runtime~main.js": "/react_people-table/static/js/runtime~main.b2b73302.js",
+    "runtime~main.js.map": "/react_people-table/static/js/runtime~main.b2b73302.js.map",
+    "static/js/2.84d2f825.chunk.js": "/react_people-table/static/js/2.84d2f825.chunk.js",
+    "static/js/2.84d2f825.chunk.js.map": "/react_people-table/static/js/2.84d2f825.chunk.js.map",
+    "index.html": "/react_people-table/index.html",
+    "precache-manifest.9806fd443238bc2e5f344bbcceb89259.js": "/react_people-table/precache-manifest.9806fd443238bc2e5f344bbcceb89259.js",
+    "service-worker.js": "/react_people-table/service-worker.js",
+    "static/css/main.53a01f42.chunk.css.map": "/react_people-table/static/css/main.53a01f42.chunk.css.map"
+  }
+}
